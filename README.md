@@ -4,11 +4,13 @@
  
  # Sequecia de como foi  criar minha API com Node/Loopback :
 
-# lb4 app
-# lb4 datasource 
-# lb4 model 
-# lb4 repository
-# lb4 controller
+# 
+# lb4 app : Cadastro 
+# lb4 datasource : dados   (Host: mysql.docker )
+# lb4 model :cadastro2
+# lb4 repository : base
+# lb4 controller 
+
 
 
 
